@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FootballClub</string>
+
+    <string-array name="club_name">
+        <item>Barcelona FC</item>
+        <item>Real Madrid FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Manchester City FC</item>
+        <item>Manchester United FC</item>
+        <item>Chelsea FC</item>
+        <item>AC Milan FC</item>
+        <item>Arsenal FC</item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/img_barca</item>
+        <item>@drawable/img_madrid</item>
+        <item>@drawable/img_bayern</item>
+        <item>@drawable/img_city</item>
+        <item>@drawable/img_mu</item>
+        <item>@drawable/img_chelsea</item>
+        <item>@drawable/img_acm</item>
+        <item>@drawable/img_arsenal</item>
+    </array>
+
+    <array name="club_detail">
+        <item>Founded in 1899 by a group of Swiss, English and Catalan footballers led by Joan Gamper, the club has become a symbol of Catalan culture and Catalanism, hence the motto "Més que un club" ("More than a club").</item>
+        <item>Founded on 6 March 1902 as the Madrid Football Club, the club has traditionally worn a white home kit since inception. The word real is Spanish for "royal" and was bestowed to the club by King Alfonso XIII in 1920 together with the royal crown in the emblem.</item>
+        <item>Founded in 1900 by 11 football players, led by Franz John.[5] Although Bayern won its first national championship in 1932,the club was not selected for the Bundesliga at its inception in 1963.</item>
+        <item>Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. The club's home ground is the City of Manchester Stadium in east Manchester, to which it moved in 2003, having played at Maine Road since 1923.</item>
+        <item>Founded as Newton Heath LYR Football Club in 1878, changed its name to Manchester United in 1902 and moved to its current stadium, Old Trafford, in 1910. </item>
+        <item>Founded in 1905, the club's home ground since then has been Stamford Bridge.Chelsea's regular kit colours are royal blue shirts and shorts with white socks. The club's crest has been changed several times in attempts to re-brand the club and modernise its image.</item>
+        <item>Founded in 1899,A.C. Milan or simply Milan, is a professional football club in Milan, Italy.he club has spent its entire history, with the exception of the 1980–81 and 1982–83 seasons, in the top flight of Italian football, known as Serie A since 1929–30.</item>
+        <item>Founded in 1886 as a munition workers' team from Woolwich, then in Kent, now southeast London. They turned professional in 1891 and joined The Football League two years later. They were promoted to the First Division in 1904 but financial problems meant they were liquidated and reformed.</item>
+    </array>
+</resources>
